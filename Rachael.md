@@ -2,4 +2,3 @@
 - Peter Wambua
 # Developers not working on this project
 -Allan Wasega
--Ethan 
