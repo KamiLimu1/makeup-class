@@ -1,4 +1,4 @@
 # Developers working on this project
-Linet is working on this
+Peter Wambua
 # Developers not working on this project
-Hello World
+Allan Wasega
