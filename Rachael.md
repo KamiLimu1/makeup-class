@@ -1,6 +1,5 @@
 # Developers working on this project
-Sherry
-Nyanchera
+- Peter Wambua
 # Developers not working on this project
-Obare
-
+-Allan Wasega
+-Ethan 
